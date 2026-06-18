@@ -8,7 +8,7 @@ The purpose of this repository is to document my journey through the Algorithms 
 
 ---
 
-# 🗺️ About the Programming Roadmap
+#  About the Programming Roadmap
 
 The **ProgrammingAdvices Roadmap** is a comprehensive programming learning path created by **Dr. Mohammad Abu-Hadhoud**.
 
@@ -33,7 +33,7 @@ https://programmingadvices.com/p/roadmap
 
 ---
 
-##  Algorithms & Problem Solving – Level 1
+##  - Algorithms & Problem Solving – Level 1
 
 **Problems Solved:** **50 Problems**
 
@@ -61,7 +61,7 @@ This level established the fundamentals of problem solving and taught me how to 
 
 ---
 
-## 📙 Algorithms & Problem Solving – Level 2
+## - Algorithms & Problem Solving – Level 2
 
 **Problems Solved:** **50 Problems**
 
@@ -90,7 +90,7 @@ This level significantly improved my ability to divide complex problems into reu
 
 ---
 
-## 📗 Algorithms & Problem Solving – Level 3
+## - Algorithms & Problem Solving – Level 3
 
 **Problems Solved:** **51 Problems**
 
@@ -117,7 +117,7 @@ This level strengthened my ability to organize code into reusable components, ma
 
 ---
 
-## 📕 Algorithms & Problem Solving – Level 4
+## - Algorithms & Problem Solving – Level 4
 
 **Problems Solved:** **50+ Problems**
 
@@ -188,5 +188,5 @@ Each solution was written by me as part of my learning journey and demonstrates 
 
 **Youness Chergui Amin**
 
-GitHub:
-https://github.com/youness-chregui-amin
+linkedin : 
+https://www.linkedin.com/in/youness-chergui-amin
