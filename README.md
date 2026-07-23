@@ -219,39 +219,39 @@ This level significantly strengthened my understanding of data structures by imp
 
 Throughout these five levels, I strengthened my knowledge in:
 
-Algorithmic Thinking
-Problem Solving
-Divide & Conquer
-Structured Programming
-Clean Code
-Modular Programming
-Generic Programming
-Templates
-Object-Oriented Programming (OOP)
-Code Reusability
-Memory Management
-Pointers
-Dynamic Memory Allocation
-Data Structures
-Doubly Linked Lists
-Dynamic Arrays
-Queues
-Stacks
-State Management
-Undo & Redo Systems
-Queue Management Systems
-Custom Utility Libraries
-Mathematical Algorithms
-Number Theory
-Arrays
-Matrices
-Strings
-String Manipulation
-File Handling
-Date Algorithms
-Debugging
-Logical Reasoning
-Software Design Fundamentals
+- Algorithmic Thinking
+- Problem Solving
+- Divide & Conquer
+- Structured Programming
+- Clean Code
+- Modular Programming
+- Generic Programming
+- Templates
+- Object-Oriented Programming (OOP)
+- Code Reusability
+- Memory Management
+- Pointers
+- Dynamic Memory Allocation
+- Data Structures
+- Doubly Linked Lists
+- Dynamic Arrays
+- Queues
+- Stacks
+- State Management
+- Undo & Redo Systems
+- Queue Management Systems
+- Custom Utility Libraries
+- Mathematical Algorithms
+- Number Theory
+- Arrays
+- Matrices
+- Strings
+- String Manipulation
+- File Handling
+- Date Algorithms
+- Debugging
+- Logical Reasoning
+- Software Design Fundamentals
 
 ---
 
