@@ -153,49 +153,28 @@ Build advanced data structures and practical applications from scratch using mod
 
 📖 Topics Covered
 
-Templates
-
-Generic Programming
-
-Doubly Linked Lists
-
-Dynamic Arrays
-
-Queues
-
-Stacks
-
-Memory Management
-
-Dynamic Memory Allocation
-
-Pointers
-
-Queue Implementation Using Linked Lists
-
-Queue Implementation Using Dynamic Arrays
-
-Stack Implementation Using Linked Lists
-
-Stack Implementation Using Dynamic Arrays
-
-Object-Oriented Programming (OOP)
-
-Inheritance
-
-Encapsulation
-
-Code Reusability
-
-State Management
-
-Custom String Library
-
-Queue Management Systems
-
-Undo & Redo Systems
-
-Practical Data Structure Applications
+* Templates
+* Generic Programming
+* Doubly Linked Lists
+* Dynamic Arrays
+* Queues
+* Stacks
+* Memory Management
+* Dynamic Memory Allocation
+* Pointers
+* Queue Implementation Using Linked Lists
+* Queue Implementation Using Dynamic Arrays
+* Stack Implementation Using Linked Lists
+* Stack Implementation Using Dynamic Arrays
+* Object-Oriented Programming (OOP)
+* Inheritance
+* Encapsulation
+* Code Reusability
+* State Management
+* Custom String Library
+* Queue Management Systems
+* Undo & Redo Systems
+* Practical Data Structure Applications
 
 ### Projects
 
