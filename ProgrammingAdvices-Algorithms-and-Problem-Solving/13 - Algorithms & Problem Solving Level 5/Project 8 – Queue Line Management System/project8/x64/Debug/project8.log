@@ -1,0 +1,23 @@
+﻿  project8.cpp
+E:\visual c++\project8\StringLib.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'project8.cpp')
+  
+E:\visual c++\project8\StringLib.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'project8.cpp')
+  
+E:\visual c++\project8\StringLib.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'project8.cpp')
+  
+E:\visual c++\project8\StringLib.h(189,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'project8.cpp')
+  
+E:\visual c++\project8\StringLib.h(319,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'project8.cpp')
+  
+E:\visual c++\project8\StringLib.h(367,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'project8.cpp')
+  
+E:\visual c++\project8\clsQueueLine.h(108,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'project8.cpp')
+  
+  project8.vcxproj -> E:\visual c++\project8\x64\Debug\project8.exe
