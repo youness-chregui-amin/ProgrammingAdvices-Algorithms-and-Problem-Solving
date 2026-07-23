@@ -1,0 +1,5 @@
+﻿  Project2.cpp
+E:\visual c++\Project2\clsMyQueue.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Project2.cpp')
+  
+  Project2.vcxproj -> E:\visual c++\Project2\x64\Debug\Project2.exe
