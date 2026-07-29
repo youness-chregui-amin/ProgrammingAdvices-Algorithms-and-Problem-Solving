@@ -2,6 +2,12 @@
 
 # ProgrammingAdvices – Algorithms & Problem Solving 
 
+<p align="center">
+  <img src="/ProgrammingAdvices-Algorithms-and-Problem-Solving
+/photo_2026-07-29_11-08-04.jpg
+" width="140" alt=">
+</p>
+
 This repository contains my personal C++ solutions for the **Algorithms & Problem Solving** courses from the **ProgrammingAdvices Programming Roadmap**, created by **Dr. Mohammad Abu-Hadhoud**.
 
 The purpose of this repository is to document my journey through the Algorithms & Problem Solving track, strengthen my algorithmic thinking, improve structured programming skills, and build a solid foundation before moving to advanced computer science topics.
