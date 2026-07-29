@@ -3,9 +3,7 @@
 # ProgrammingAdvices – Algorithms & Problem Solving 
 
 <p align="center">
-  <img src="/ProgrammingAdvices-Algorithms-and-Problem-Solving
-/photo_2026-07-29_11-08-04.jpg
-" width="140" alt=">
+  <img src="ProgrammingAdvices-Algorithms-and-Problem-Solving/photo_2026-07-29_11-08-04.jpg" width="850">
 </p>
 
 This repository contains my personal C++ solutions for the **Algorithms & Problem Solving** courses from the **ProgrammingAdvices Programming Roadmap**, created by **Dr. Mohammad Abu-Hadhoud**.
